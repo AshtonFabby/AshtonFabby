@@ -21,6 +21,3 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/faraibauti)
 - [Email](mailto:ashtonfabbt@gmail.com)
 
-## 😄 Fun fact ...
-
-I like to play video games
