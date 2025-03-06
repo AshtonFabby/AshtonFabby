@@ -22,7 +22,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I'm gaming</p>
+<p align="left">I am a Full Stack Developer, Software Developer, and freelancer with over five years of experience in the industry.
+I have a strong command of React, JavaScript, PHP, Tailwind, and Docker and I can use them to create responsive
+and user-friendly experiences. I have successfully delivered several projects using NextJS, WordPress, and Headless CMS, meeting the requirements and expectations of my clients. I also have experience managing Linux Servers running docker, ensuring their security and performance. I am always eager to learn new skills
+and technologies to improve my craft and deliver quality results.<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I'm gaming</p>
 
 ###
 
